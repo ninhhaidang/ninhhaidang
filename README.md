@@ -24,13 +24,13 @@
   <a href="https://www.facebook.com/ngheess">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://tiktok.com/@yourusername">
+  <a href="https://tiktok.com/@haidang_04">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/ninhhaidang">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://youtube.com/@yourusername">
+  <a href="https://youtube.com/@haidangninh">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
