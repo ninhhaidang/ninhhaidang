@@ -15,11 +15,17 @@
   <a href="https://github.com/ninhhaidang">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/ninhhaidang">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/bonglantrungmuoj">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/ngheess">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
   <a href="https://tiktok.com/@yourusername">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
@@ -31,7 +37,7 @@
 
 ## About Me
 
-- 🌱 Currently based in [Your Location]
+- 🌱 Currently based in Hà Nội
 - 💻 [Your Role/Position]
 - 🔭 Working on [Current Project]
 - 🌐 Visit my website: [Your Website URL]
@@ -52,16 +58,16 @@
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/ninhhaidang/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninhhaidang&repo=project1&theme=tokyonight" />
+  <a href="https://github.com/ninhhaidang/phan-tich-du-lieu-khong-gian">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninhhaidang&repo=phan-tich-du-lieu-khong-gian&theme=tokyonight" />
   </a>
-  <a href="https://github.com/ninhhaidang/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninhhaidang&repo=project2&theme=tokyonight" />
+  <a href="https://github.com/ninhhaidang/GiaLai-forest-fire">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninhhaidang&repo=GiaLai-forest-fire&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/ninhhaidang/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninhhaidang&repo=project3&theme=tokyonight" />
+  <a href="https://github.com/ninhhaidang/MODISGapfilling">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ninhhaidang&repo=MODISGapfilling&theme=tokyonight" />
   </a>
 </p>
 
@@ -71,6 +77,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <!-- Add more skills badges here -->
 </p>
 
@@ -101,5 +108,5 @@
 </p>
 
 <p align="center">
-  ✨ Thank you for visiting my profile! Feel free to check out my repositories below. ✨
+  ✨ Cảm ơn bạn đã ghé thăm hồ sơ của tôi! Hãy xem các kho lưu trữ của tôi bên dưới nhé. ✨
 </p>
